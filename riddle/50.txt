@@ -1,0 +1,19 @@
+1) _RL_R
+2) LLR_RR_
+3) _LLR_
+4) LLLR_RLRR
+5) _ _ _ _ _ _ R R
+6) There are, in total: 17Lefts, and 17Rights
+7) 10 letters
+---------------------------------------------
+
+1) LRLRR
+2) LLRLRRL
+
+3) RLLRR
+4) LLLR
+
+LRLRR
+5) LRLLRLRR
+
+LANHEYCOML ===> melancholy
